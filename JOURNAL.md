@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/23/2025 - Log 1: deciding to build a keyboard because why not  
+## 10/23/2025 4:44 PM - Log 1: deciding to build a keyboard because why not  
 
 spent like 2 hours spiraling through mechanical keyboard rabbit holes on reddit.
 people really out here using 40 key boards like it’s a game of tetris
@@ -17,5 +17,17 @@ progress is progress, even if it’s one rectangle. made the schematic in the ne
 
 
 ![sch.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--33583ff1751e1624c97ebfe341ec049f098a7992/sch.png)
+  
+
+## 10/23/2025 4:47 PM - matrix moment  
+
+okay so what even is a diode matrix.
+spent 2 hours in the youtube trenches learning why keyboards don’t catch fire when multiple keys are pressed.
+respect to every tutorial with crusty mic audio, you taught me more than my formal education ever did
+laid out the switches in KiCad. looked cursed but in a fun way.
+accidentally deleted half the traces. ctrl+z came in like a superhero.
+genuinely felt like i was defusing a bomb.
+
+![traces done.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--f8c1402da061384d096969af12af7671ae46484d/traces%20done.png)
   
 
