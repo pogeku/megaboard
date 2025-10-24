@@ -31,3 +31,17 @@ genuinely felt like i was defusing a bomb.
 ![traces done.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--f8c1402da061384d096969af12af7671ae46484d/traces%20done.png)
   
 
+## 10/24/2025 - trace spaghetti simulator  
+
+back to PCB layout
+basically moved traces around for 2 hours like a 3D puzzle
+every time i fixed one connection, three others broke.
+it’s giving whack-a-mole energy
+added labels like “R1” and “C3” everywhere to look like i knew what i was doing
+it now looks legit. don’t ask me what anything does
+confidence: high. competence: unconfirmed.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0NywicHVyIjoiYmxvYl9pZCJ9fQ==--2e361a459c5a38d914ce724d16dbe78268a3c42a/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5300489dc11d07b2441f9c57e9ae465abc3ca35/image.png)
+  
+
