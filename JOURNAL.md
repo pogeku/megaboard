@@ -28,7 +28,8 @@ laid out the switches in KiCad. looked cursed but in a fun way.
 accidentally deleted half the traces. ctrl+z came in like a superhero.
 genuinely felt like i was defusing a bomb.
 
-![traces done.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--f8c1402da061384d096969af12af7671ae46484d/traces%20done.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--28b04ac2225573344ca975838af0f85d0ebb0172/image.png)
+
   
 
 ## 10/24/2025 - trace spaghetti simulator  
