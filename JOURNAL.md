@@ -46,3 +46,12 @@ confidence: high. competence: unconfirmed.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5300489dc11d07b2441f9c57e9ae465abc3ca35/image.png)
   
 
+## 10/28/2025 - screw placements are a lie  
+
+realized i had no actual mounting points
+revisited the case design to add proper screw holes
+spent 45 minutes trying to align four holes in Fusion 360
+they still don’t line up. i gave up and used the “close enough” method
+case now looks like it’s meant to survive an earthquake![screw](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1MywicHVyIjoiYmxvYl9pZCJ9fQ==--be4ae270ea40295b86cf581901ff6b1d73d32381/screw.png)
+  
+
