@@ -46,12 +46,24 @@ confidence: high. competence: unconfirmed.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5300489dc11d07b2441f9c57e9ae465abc3ca35/image.png)
   
 
-## 10/28/2025 - screw placements are a lie  
+## 10/28/2025 1:19 AM - screw placements are a lie  
 
 realized i had no actual mounting points
 revisited the case design to add proper screw holes
 spent 45 minutes trying to align four holes in Fusion 360
 they still don’t line up. i gave up and used the “close enough” method
 case now looks like it’s meant to survive an earthquake![screw](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1MywicHVyIjoiYmxvYl9pZCJ9fQ==--be4ae270ea40295b86cf581901ff6b1d73d32381/screw.png)
+  
+
+## 10/28/2025 1:21 AM - case redesign chaos  
+
+turns out my first case design was actual garbage.
+like not even misaligned a little it fully didn’t fit the PCB.
+someone looked at it and basically said “bro what is this.”
+top shell was too tight, mounting holes didn’t match, and the USB cutout? yeah it was aimed at the void.
+i took the L and started from scratch. deleted most of the Fusion timeline out of spite
+made a new case with actual clearance, fixed the standoff placements, realigned everything to the PCB
+also added a fake flex grill just to feel something
+lesson learned: don’t freestyle case design without double-checking PCB dimensions ![case des](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9883b99e2d9f02f431279b58a474128f094e7f56/case%20des.png)
   
 
