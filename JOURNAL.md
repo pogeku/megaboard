@@ -67,3 +67,15 @@ also added a fake flex grill just to feel something
 lesson learned: don’t freestyle case design without double-checking PCB dimensions ![case des](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9883b99e2d9f02f431279b58a474128f094e7f56/case%20des.png)
   
 
+## 10/28/2025 1:22 AM - precision? never heard of her  
+
+spent 3 hours playing tetris with standoffs.
+moved one standoff 0.1mm and somehow the whole shell exploded.
+spent 30 minutes yelling at the Fusion timeline and 2 hours fixing sketch constraints that i definitely did not break.
+tried adding side vents looked like cheese grater holes so i gave up.
+realized halfway in that i still hadn’t added clearance for keycaps.
+also tried “filleting for vibes” which made everything worse.
+progress? questionable. stress? yes.
+![board](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e19ad4aeb508708065999f9ff0a3da4043f53359/board.png)
+  
+
