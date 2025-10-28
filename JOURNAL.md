@@ -90,5 +90,7 @@ might even add labels to sketches like a real CAD adult.
 3 hours in, confidence restored... for now.
 
 ![keeb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--b8bca67484b69f42423aa66332148d7b91efb1ae/keeb.png)
+![keeb1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b7d00ba62222d23e81cd513bccaf644bd536c8b/keeb1.png)
+
   
 
