@@ -79,3 +79,16 @@ progress? questionable. stress? yes.
 ![board](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e19ad4aeb508708065999f9ff0a3da4043f53359/board.png)
   
 
+## 10/29/2025 - clearance redemption arc  
+
+finally sat down and measured keycap + switch + plate stack height like a responsible human being.
+redesigned the top shell again to stop it from bullying the switches.
+added the space bar key properly (centered it this time 💀), and made sure it didn’t point to Narnia.
+got brave and tried snapping the case together in the render it actually fit.
+the standoffs and holes now line up , and i didn’t break the timeline this time.
+might even add labels to sketches like a real CAD adult.
+3 hours in, confidence restored... for now.
+
+![keeb](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--b8bca67484b69f42423aa66332148d7b91efb1ae/keeb.png)
+  
+
